@@ -6,3 +6,5 @@ permalink: LINKS/
 all the things needed for os course (the way).
 2. [Basic Linux Commands](https://linuxopsys.com/topics/basic-linux-commands) <br>
 some basic linux commands that is useful for os course.
+3. [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html) <br>
+some basic vi commands.
