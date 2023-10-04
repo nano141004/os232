@@ -8,3 +8,5 @@ all the things needed for os course (the way).
 some basic linux commands that is useful for os course.
 3. [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html) <br>
 some basic vi commands.
+4. [Linux Crash Course](https://www.youtube.com/watch?v=oGyJr-iUwt8) <br>
+Some easy-to-use commands you can use to inspect hardware.
