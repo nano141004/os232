@@ -10,3 +10,5 @@ some basic linux commands that is useful for os course.
 some basic vi commands.
 4. [Linux Crash Course](https://www.youtube.com/watch?v=oGyJr-iUwt8) <br>
 Some easy-to-use commands you can use to inspect hardware.
+5. [Learn AWK](https://www.youtube.com/watch?v=9YOZmI-zWok) <br>
+This video walks through some basic AWK use-cases and basic commands which are often used in real-life.
