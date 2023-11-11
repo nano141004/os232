@@ -14,3 +14,5 @@ Some easy-to-use commands you can use to inspect hardware.
 This video walks through some basic AWK use-cases and basic commands which are often used in real-life.
 6. [Linux documentation](https://linux.die.net/) <br>
 Search all of the Linux documentation available on this site.
+7. [Regular Expressions (REGEX)](https://www.youtube.com/watch?v=bgBWp9EIlMM) <br>
+Basic Regular Expressions in 15 minutes.
