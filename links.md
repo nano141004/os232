@@ -16,3 +16,5 @@ This video walks through some basic AWK use-cases and basic commands which are o
 Search all of the Linux documentation available on this site.
 7. [Regular Expressions (REGEX)](https://www.youtube.com/watch?v=bgBWp9EIlMM) <br>
 Basic Regular Expressions in 15 minutes.
+8. [LFS 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) <br>
+Youtube playlist that explain how to build linux from scratch 12.0.
